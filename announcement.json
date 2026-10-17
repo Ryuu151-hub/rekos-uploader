@@ -1,6 +1,6 @@
 {
   "id": "welcome-reko-v150",
-  "enabled": true,
+  "enabled": false,
   "type": "info",
   "badge": "Announcement",
   "headline": "REKO'S UPLOADER is live",
