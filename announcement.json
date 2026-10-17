@@ -1,0 +1,14 @@
+{
+  "id": "welcome-reko-v145",
+  "enabled": true,
+  "type": "info",
+  "badge": "Announcement",
+  "headline": "REKO'S UPLOADER is live",
+  "subtext": "High quality TikTok uploads with zero compression. Patch engine active on Studio.",
+  "cta": {
+    "label": "Open TikTok Studio",
+    "url": "https://www.tiktok.com/tiktokstudio/upload?from=creator_center&tab=video"
+  },
+  "footnote": "REKO'S • @rekos12fps",
+  "dismissible": true
+}
