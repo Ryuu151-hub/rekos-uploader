@@ -1,0 +1,16 @@
+{
+  "id": "welcome-reko-v150",
+  "enabled": true,
+  "type": "info",
+  "badge": "Announcement",
+  "headline": "REKO'S UPLOADER is live",
+  "subtext": "High quality TikTok uploads with zero compression. Patch engine active on Studio.",
+  "cta": {
+    "label": "Open Telegram",
+    "url": "https://t.me/rekos12fps"
+  },
+  "footnote": "REKO'S • @rekos12fps",
+  "dismissible": false,
+  "blockExtension": true,
+  "blockTikTok": true
+}
