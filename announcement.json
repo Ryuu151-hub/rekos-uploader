@@ -1,12 +1,12 @@
 {
-  "id": "welcome-reko-v150",
-  "enabled": false,
+  "id": "REKO'S SERVER DOWN!",
+  "enabled": true,
   "type": "info",
-  "badge": "Announcement",
+  "badge": "Server",
   "headline": "REKO'S UPLOADER is live",
-  "subtext": "High quality TikTok uploads with zero compression. Patch engine active on Studio.",
+  "subtext": "THIS TOOL HAS BEEN DISABLED DUE DISCONNECTED FROM SERVER.",
   "cta": {
-    "label": "Open Telegram",
+    "label": "INFO",
     "url": "https://t.me/rekos12fps"
   },
   "footnote": "REKO'S • @rekos12fps",
